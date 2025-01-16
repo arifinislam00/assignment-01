@@ -1,0 +1,58 @@
+/* nav styles */
+.name{
+    display: flex;
+    justify-content: space-around;
+}
+.bang{
+    font-weight: bold;
+    font-size: 32px;
+    color: #0E0E0E;
+
+}
+.button1{
+    border: none;
+    border-radius: 8px;
+    color: #006A50;
+    padding: 10px 4px;
+    font-weight:600;
+    font-size: 18px;
+    width: 130px;
+    height: 60px;
+    background-color:beige;
+}
+
+/* Banner styles */
+.banner-style{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 160px;
+    margin-right: 160px;
+    margin-top: 20px;
+    background-color: #C6E4D6;
+    border-radius: 24px;
+    padding: 100px 70px;
+}
+.small-head{
+    font-size: 24px;
+    font-weight: 600;
+    color: #0E0E0E;
+    margin-bottom: 16px;
+}
+.banner{
+    font-weight: bold;
+    font-size: 56px;
+    margin-top: 16px;
+    margin-bottom: 24px;
+}
+.banner-class{
+    margin-top: 24px;
+    font-weight:600;
+    font-size: 18px;
+    width: 330px;
+    height: 100px;
+    background-color: #006A50;
+    margin: 34px 17px;
+    border: none;
+    padding: 34px 17px;
+    border-radius: 8px;
+}
